@@ -364,7 +364,11 @@ table.box,table.box2 {
 	margin-top:4px;
 	border:none;
 	color:#26282e;
-	background-color:#f0f0f0;
+	background-color:#f4f4f4;
+}
+
+.autocomplete-suggestions a {
+color: #000;
 }
 
 .autocomplete-suggestions .autocomplete-suggestion {
